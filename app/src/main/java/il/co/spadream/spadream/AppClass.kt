@@ -2,7 +2,6 @@ package il.co.spadream.spadream
 
 import android.app.Application
 
-import com.onesignal.OSNotificationOpenResult
 import com.onesignal.OneSignal
 
 class AppClass : Application() {
